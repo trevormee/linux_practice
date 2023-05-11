@@ -1,0 +1,4 @@
+Food;5.99;Hungry? Enjoy all the snacks you need and a meal planned by one of our train chefs upon your request!
+Beverage;3.99;Parched? Select this package and you can have as many drinks as you like!
+WiFi;2.99;Need to send an email or enjoy streaming your favorite show? This package will help you take care of everything for your internet needs!
+Spa & Treatment;19.99;You asked, we delivered! Enjoy an hour long spa session in our most relaxing train car!

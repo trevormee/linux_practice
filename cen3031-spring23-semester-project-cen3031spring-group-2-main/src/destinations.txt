@@ -1,0 +1,9 @@
+Boston;8:00 AM
+New York City;11:00 AM
+Philadelphia;2:00 PM
+Newark;2:00 PM
+Baltimore;7:00 PM
+Harrisburg;1:00 PM
+Trenton;1:00 PM
+Washington DC;8:00 PM
+Hartford;6:00 PM
